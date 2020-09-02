@@ -9,5 +9,7 @@ Distracted driving is a prominent reason of car accidents, which accounts for 25
 Another important goal of this user experience research was to acknowledge the requirements, psychology and motivations of the user through observations and
 feedback.Therefore, I evaluated the design decisions of the conversational assistant, through intensive user testing and heuristic evaluation results, to assess how well their speech capabilities align with user contexts from real world scenarios.The quantitative metrics obtained from the test results were further used to enhance the agent’s design simplicity, spontantanity, and alignment of the conversation with respect to real life situations. Designing an Alexa skill for the in-car voice assistant, conducting user testing in immersive environments and evaluating user's trust for the assistant based on its gender are the future milestones for this research project.
 
+#### Keywords: Voice User Interface, Conversational Agents, Automotive Industry, Car Chatbot, Safe Driving, Human-Computer Interaction
+
 
 
